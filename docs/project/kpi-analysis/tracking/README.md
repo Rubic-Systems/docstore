@@ -16,7 +16,7 @@ This directory contains project tracking documentation, including progress repor
 ## Related Documentation
 - [Project Planning](../planning/README.md) - For project plans
 - [MVP Documentation](../mvp/README.md) - For MVP progress
-- [Technical Architecture](../../technical/architecture/README.md) - For technical progress
+- [Technical Architecture](../technical/architecture/README.md) - For technical progress
 
 ## Templates
 Use the following templates from the [Templates](../../templates/project/) directory:

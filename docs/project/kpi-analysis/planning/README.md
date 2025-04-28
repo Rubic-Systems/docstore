@@ -19,7 +19,7 @@ This directory contains project planning documentation, including timelines, bud
 
 ## Related Documentation
 - [MVP Documentation](../mvp/README.md) - For MVP requirements
-- [Technical Architecture](../../technical/architecture/README.md) - For technical planning
+- [Technical Architecture](../technical/architecture/README.md) - For technical planning
 - [Progress Tracking](../tracking/README.md) - For implementation status
 
 ## Templates

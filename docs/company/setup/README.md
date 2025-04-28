@@ -26,7 +26,7 @@ See the [Documentation Index](../../README.md) for a complete overview of all do
 - [Risk Assessment](08_risk-assessment.md) - Risk matrix and mitigation strategies
 
 ### Technical Documentation
-See [Technical Documentation](../../technical/README.md) for technical details.
+See [Technical Documentation](../../project/kpi-analysis/technical/README.md) for technical details.
 
 ### Project Documentation
 See [Project Documentation](../../project/README.md) for project planning.

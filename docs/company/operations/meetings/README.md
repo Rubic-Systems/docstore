@@ -32,8 +32,8 @@ This directory contains meeting transcripts, summaries, and related documentatio
 - Review and clean up regularly
 
 ## Related Documentation
-- [Technical Architecture](../../../technical/architecture/README.md)
-- [Project Planning](../../../project/planning/README.md)
+- [Technical Architecture](../../../project/kpi-analysis/technical/architecture/README.md)
+- [Project Planning](../../../project/kpi-analysis/planning/README.md)
 - [Decision Logs](../decisions/README.md)
 
 ## Templates

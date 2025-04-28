@@ -47,9 +47,9 @@
 
 ## Related Documents
 - [MVP Discussion Summary](../../meetings/summaries/2024-02-20-mvp-discussion.md)
-- [MVP Specification](../../../project/mvp/mvpScope.md)
-- [Project Phases](../../../project/planning/projectPhases.md)
-- [Technical Architecture](../../../technical/architecture/systemArchitecture.md)
+- [MVP Specification](../../../project/kpi-analysis/mvp/mvpScope.md)
+- [Project Phases](../../../project/kpi-analysis/planning/projectPhases.md)
+- [Technical Architecture](../../../project/kpi-analysis/technical/architecture/systemArchitecture.md)
 
 ## Notes
 - System needs to be adaptable for different industries

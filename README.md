@@ -15,16 +15,15 @@ We recommend starting with the [MVP Discussion](docs/company/operations/meetings
   - [Decisions](docs/company/operations/decisions/README.md) - Decision logs
   - [Progress](docs/company/operations/progress/README.md) - Progress tracking
 
-### Technical Documentation
-- [Architecture](docs/technical/architecture/README.md) - System design and architecture
-- [API](docs/technical/api/README.md) - API documentation
-- [Database](docs/technical/database/README.md) - Database documentation
-- [Development](docs/technical/development/README.md) - Development guidelines
-
 ### Project Documentation
-- [MVP](docs/project/mvp/README.md) - MVP-related documentation
-- [Planning](docs/project/planning/README.md) - Project planning
-- [Tracking](docs/project/tracking/README.md) - Project tracking
+- [KPI Analysis Platform](docs/project/kpi-analysis/README.md) - All documentation for the KPI Analysis Platform, including:
+  - [Architecture](docs/project/kpi-analysis/technical/architecture/README.md) - System design and architecture
+  - [API](docs/project/kpi-analysis/technical/api/README.md) - API documentation
+  - [Database](docs/project/kpi-analysis/technical/database/README.md) - Database documentation
+  - [Development](docs/project/kpi-analysis/technical/development/README.md) - Development guidelines
+  - [MVP](docs/project/kpi-analysis/mvp/README.md) - MVP-related documentation
+  - [Planning](docs/project/kpi-analysis/planning/README.md) - Project planning
+  - [Tracking](docs/project/kpi-analysis/tracking/README.md) - Project tracking
 
 ## Templates
 

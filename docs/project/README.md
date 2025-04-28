@@ -1,43 +1,23 @@
 # Project Documentation
 
-## Overview
-This directory contains project documentation, including planning, budgeting, and scope definitions.
+This directory contains documentation for all projects within the organization.
 
-## Contents
-1. [Budget Planning](planning/budgetPlanning.md)
-   - Financial projections
-   - Resource allocation
-   - Cost tracking
+## Projects
 
-2. [Project Phases](planning/projectPhases.md)
-   - Implementation timeline
-   - Milestone definitions
-   - Dependencies
+- [KPI Analysis Platform](kpi-analysis/README.md)  
+  Documentation for the KPI Analysis Platform, including MVP, planning, tracking, and more.
 
-3. [MVP Scope](mvp/mvpScope.md)
-   - Minimum viable product definition
-   - Feature prioritization
-   - Release criteria
+<!-- Add additional projects here as needed -->
+<!-- Example:
+- [Another Project](another-project/README.md)
+-->
 
-4. [Demo Scope](planning/demoScope.md)
-   - Demo requirements
-   - Presentation guidelines
-   - Success criteria
+## How to Add a New Project
 
-## Related Documentation
-- [Progress Tracking](../../company/setup/00_progress-tracking.md) - For project status
-- [Risk Assessment](../../company/setup/08_risk-assessment.md) - For project risks
-- [Company Organization](../../company/setup/05_internal-organization.md) - For team structure
+1. Create a new subfolder under `docs/project/` with the project name (e.g., `my-new-project`).
+2. Add a `README.md` in the new project folder describing the project.
+3. Add links to the new project in this file.
 
-## Templates
-Use the following templates from the [Templates](../../templates/project/) directory:
-- [Project Status Report](../../templates/project/status-report.md)
-- [Sprint Planning](../../templates/project/sprint-planning.md)
-- [Feature Request](../../templates/project/feature-request.md)
-- [Bug Report](../../templates/project/bug-report.md)
-- [User Story](../../templates/project/user-story.md)
+---
 
-## Maintenance
-- Update documentation as project evolves
-- Review and update monthly
-- Ensure alignment with business objectives 
+*For templates and documentation standards, see [docs/templates/README.md](../templates/README.md).* 

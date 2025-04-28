@@ -12,7 +12,7 @@ This directory contains documentation related to the Minimum Viable Product (MVP
 
 ## Related Documentation
 - [Project Planning](../planning/README.md) - For implementation timeline
-- [Technical Architecture](../../technical/architecture/README.md) - For technical requirements
+- [Technical Architecture](../technical/architecture/README.md) - For technical requirements
 - [Progress Tracking](../tracking/README.md) - For development status
 
 ## Templates

@@ -9,16 +9,15 @@ This directory contains all project documentation organized into three main cate
   - [Decisions](company/operations/decisions/README.md) - Decision logs and records
   - [Progress](company/operations/progress/README.md) - Progress tracking and updates
 
-## Technical Documentation
-- [Architecture](technical/architecture/README.md) - System architecture and design
-- [API](technical/api/README.md) - API documentation
-- [Database](technical/database/README.md) - Database documentation
-- [Development](technical/development/README.md) - Development guidelines and standards
-
 ## Project Documentation
-- [MVP](project/mvp/README.md) - MVP-related documentation
-- [Planning](project/planning/README.md) - Project planning documents
-- [Tracking](project/tracking/README.md) - Project tracking and status reports
+- [KPI Analysis Platform](project/kpi-analysis/README.md) - All documentation for the KPI Analysis Platform, including:
+  - [Architecture](project/kpi-analysis/technical/architecture/README.md) - System design and architecture
+  - [API](project/kpi-analysis/technical/api/README.md) - API documentation
+  - [Database](project/kpi-analysis/technical/database/README.md) - Database documentation
+  - [Development](project/kpi-analysis/technical/development/README.md) - Development guidelines
+  - [MVP](project/kpi-analysis/mvp/README.md) - MVP-related documentation
+  - [Planning](project/kpi-analysis/planning/README.md) - Project planning
+  - [Tracking](project/kpi-analysis/tracking/README.md) - Project tracking
 
 ## Documentation Guidelines
 1. Keep documentation up to date
