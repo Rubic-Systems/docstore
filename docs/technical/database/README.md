@@ -12,7 +12,7 @@ This directory contains documentation for all databases used in the project.
 - Backup and recovery procedures
 
 ## Guidelines
-1. Use the database schema template from `templates/technical/database-schema.md`
+1. Use the database schema template from `docs/templates/technical/database-schema.md`
 2. Document all tables and their relationships
 3. Include data types and constraints
 4. Document all indexes and their purposes

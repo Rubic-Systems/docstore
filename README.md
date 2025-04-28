@@ -29,33 +29,33 @@ We recommend starting with the [MVP Discussion](docs/company/operations/meetings
 ## Templates
 
 ### Legal Templates
-- [Operating Agreement](templates/legal/operating-agreement.md) - Company operating agreement template
-- [NDA](templates/legal/nda.md) - Non-disclosure agreement template
-- [Service Agreement](templates/legal/service-agreement.md) - Service agreement template
-- [Employment Contract](templates/legal/employment-contract.md) - Employment contract template
-- [Vendor Agreement](templates/legal/vendor-agreement.md) - Vendor agreement template
+- [Operating Agreement](docs/templates/legal/operating-agreement.md) - Company operating agreement template
+- [NDA](docs/templates/legal/nda.md) - Non-disclosure agreement template
+- [Service Agreement](docs/templates/legal/service-agreement.md) - Service agreement template
+- [Employment Contract](docs/templates/legal/employment-contract.md) - Employment contract template
+- [Vendor Agreement](docs/templates/legal/vendor-agreement.md) - Vendor agreement template
 
 ### Technical Templates
-- [API Documentation](templates/technical/api-documentation.md) - API documentation template
-- [System Architecture](templates/technical/system-architecture.md) - System architecture documentation template
-- [Database Schema](templates/technical/database-schema.md) - Database schema documentation template
-- [Code Review](templates/technical/code-review.md) - Code review template
-- [Testing Plan](templates/technical/testing-plan.md) - Testing plan template
+- [API Documentation](docs/templates/technical/api-documentation.md) - API documentation template
+- [System Architecture](docs/templates/technical/system-architecture.md) - System architecture documentation template
+- [Database Schema](docs/templates/technical/database-schema.md) - Database schema documentation template
+- [Code Review](docs/templates/technical/code-review.md) - Code review template
+- [Testing Plan](docs/templates/technical/testing-plan.md) - Testing plan template
 
 ### Project Templates
-- [Meeting Agenda](templates/project/meeting-agenda.md) - Meeting agenda template
-- [Action Items](templates/project/action-items.md) - Action items tracking template
-- [Decision Log](templates/project/decision-log.md) - Decision tracking template
-- [Project Status Report](templates/project/status-report.md) - Project status reporting template
-- [Sprint Planning](templates/project/sprint-planning.md) - Sprint planning template
-- [Feature Request](templates/project/feature-request.md) - Feature request template
-- [Bug Report](templates/project/bug-report.md) - Bug reporting template
-- [User Story](templates/project/user-story.md) - User story template
+- [Meeting Agenda](docs/templates/project/meeting-agenda.md) - Meeting agenda template
+- [Action Items](docs/templates/project/action-items.md) - Action items tracking template
+- [Decision Log](docs/templates/project/decision-log.md) - Decision tracking template
+- [Project Status Report](docs/templates/project/status-report.md) - Project status reporting template
+- [Sprint Planning](docs/templates/project/sprint-planning.md) - Sprint planning template
+- [Feature Request](docs/templates/project/feature-request.md) - Feature request template
+- [Bug Report](docs/templates/project/bug-report.md) - Bug reporting template
+- [User Story](docs/templates/project/user-story.md) - User story template
 
 ### Meeting Templates
-- [Meeting Agenda](templates/meetings/agenda.md) - Meeting agenda template
-- [Action Items](templates/meetings/action-items.md) - Action items tracking template
-- [Decision Log](templates/meetings/decision-log.md) - Decision tracking template
+- [Meeting Agenda](docs/templates/meetings/agenda.md) - Meeting agenda template
+- [Action Items](docs/templates/meetings/action-items.md) - Action items tracking template
+- [Decision Log](docs/templates/meetings/decision-log.md) - Decision tracking template
 
 ## Contributing
 

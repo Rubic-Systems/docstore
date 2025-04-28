@@ -19,10 +19,10 @@ This directory contains project tracking documentation, including progress repor
 - [Technical Architecture](../../technical/architecture/README.md) - For technical progress
 
 ## Templates
-Use the following templates from the [Templates](../../../templates/project/) directory:
-- [Project Status Report](../../../templates/project/status-report.md)
-- [Action Items](../../../templates/project/action-items.md)
-- [Decision Log](../../../templates/project/decision-log.md)
+Use the following templates from the [Templates](../../templates/project/) directory:
+- [Project Status Report](../../templates/project/status-report.md)
+- [Action Items](../../templates/project/action-items.md)
+- [Decision Log](../../templates/project/decision-log.md)
 
 ## Maintenance
 - Update documentation regularly

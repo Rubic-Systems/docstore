@@ -37,8 +37,8 @@ This directory contains meeting transcripts, summaries, and related documentatio
 - [Decision Logs](../decisions/README.md)
 
 ## Templates
-Use the following templates from the [Templates](../../../../templates/meetings/) directory:
-- [Meeting Agenda](../../../../templates/meetings/agenda.md)
-- [Meeting Summary](../../../../templates/meetings/meeting-summary.md)
-- [Action Items](../../../../templates/meetings/action-items.md)
-- [Decision Log](../../../../templates/meetings/decision-log.md) 
+Use the following templates from the [Templates](../../../templates/meetings/) directory:
+- [Meeting Agenda](../../../templates/meetings/agenda.md)
+- [Meeting Summary](../../../templates/meetings/meeting-summary.md)
+- [Action Items](../../../templates/meetings/action-items.md)
+- [Decision Log](../../../templates/meetings/decision-log.md) 

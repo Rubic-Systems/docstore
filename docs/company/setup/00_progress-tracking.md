@@ -28,21 +28,27 @@
 5. Business License Acquisition
 
 ## Dependencies Map
-```mermaid
-graph TD
-    A[Pre-Incorporation] --> B[Incorporation]
-    B --> C[Post-Incorporation]
-    C --> D[Compliance]
-    D --> E[Internal Org]
-    E --> F[Optional Steps]
-    F --> G[Risk Management]
-    
-    %% Parallel Tasks
-    B --> H[Bank Account]
-    B --> I[EIN]
-    C --> J[Business License]
-    C --> K[GitHub Setup]
-```
+
+**Main Process Flow:**
+- Pre-Incorporation
+  ↓
+- Incorporation
+  - Parallel Tasks:
+    - Bank Account Setup
+    - EIN Obtainment
+  ↓
+- Post-Incorporation
+  - Parallel Tasks:
+    - Business License Acquisition
+    - GitHub Setup
+  ↓
+- Compliance & Licensing
+  ↓
+- Internal Organization
+  ↓
+- Optional Early Steps
+  ↓
+- Risk Management
 
 ## Budget Tracking
 | Item | Estimated Cost | Actual Cost | Status |

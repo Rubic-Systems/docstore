@@ -11,7 +11,7 @@ This directory contains documentation for all APIs used in the project.
 - Version history
 
 ## Guidelines
-1. Use the API documentation template from `templates/technical/api-documentation.md`
+1. Use the API documentation template from `docs/templates/technical/api-documentation.md`
 2. Keep documentation up to date with API changes
 3. Include examples for all endpoints
 4. Document all error codes and responses

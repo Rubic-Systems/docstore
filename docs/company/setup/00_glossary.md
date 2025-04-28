@@ -44,9 +44,9 @@ The `templates` directory contains sample documents for:
 ## Version History
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0.0 | TBD | Initial setup |
-| 1.0.1 | TBD | Added progress tracking |
-| 1.0.2 | TBD | Added templates |
+| 1.0.0 | 4/28/2025 | Initial setup |
+| 1.0.1 | 4/28/2025 | Added progress tracking |
+| 1.0.2 | 4/28/2025 | Added templates |
 
 ## Change Log
 - Added progress tracking system

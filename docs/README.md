@@ -35,6 +35,6 @@ This directory contains all project documentation organized into three main cate
 - Templates: As needed
 
 ## Templates
-All documentation should use the appropriate templates from the [Templates](../templates/README.md) directory. Each template is designed to be used as a starting point for creating new documents.
+All documentation should use the appropriate templates from the [Templates](templates/README.md) directory. Each template is designed to be used as a starting point for creating new documents.
 
 Each subdirectory contains its own README file with more specific information about its contents. 

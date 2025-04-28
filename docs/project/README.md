@@ -25,9 +25,9 @@ This directory contains project documentation, including planning, budgeting, an
    - Success criteria
 
 ## Related Documentation
-- [Progress Tracking](tracking/00_progress-tracking.md) - For project status
-- [Risk Assessment](../company/operations/02_risk-assessment.md) - For project risks
-- [Company Organization](../company/setup/05_internal-organization.md) - For team structure
+- [Progress Tracking](../../company/setup/00_progress-tracking.md) - For project status
+- [Risk Assessment](../../company/setup/08_risk-assessment.md) - For project risks
+- [Company Organization](../../company/setup/05_internal-organization.md) - For team structure
 
 ## Templates
 Use the following templates from the [Templates](../../templates/project/) directory:

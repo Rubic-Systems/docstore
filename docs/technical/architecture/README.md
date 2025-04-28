@@ -21,14 +21,14 @@ This directory contains technical documentation related to the company's enginee
 
 ## Related Documentation
 - [Company Organization](../../company/setup/05_internal-organization.md) - For development processes
-- [Risk Assessment](../../company/operations/02_risk-assessment.md) - For technical risk management
+- [Risk Assessment](../../company/setup/08_risk-assessment.md) - For technical risk management
 - [Project Planning](../../project/planning/projectPhases.md) - For technical implementation timeline
 
 ## Templates
-Use the following templates from the [Templates](../../../templates/technical/) directory:
-- [System Architecture](../../../templates/technical/system-architecture.md)
-- [API Documentation](../../../templates/technical/api-documentation.md)
-- [Database Schema](../../../templates/technical/database-schema.md)
+Use the following templates from the [Templates](../../templates/technical/) directory:
+- [System Architecture](../../templates/technical/system-architecture.md)
+- [API Documentation](../../templates/technical/api-documentation.md)
+- [Database Schema](../../templates/technical/database-schema.md)
 
 ## Maintenance
 - Update this documentation as technical decisions are made

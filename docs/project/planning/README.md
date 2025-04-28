@@ -23,10 +23,10 @@ This directory contains project planning documentation, including timelines, bud
 - [Progress Tracking](../tracking/README.md) - For implementation status
 
 ## Templates
-Use the following templates from the [Templates](../../../templates/project/) directory:
-- [Project Status Report](../../../templates/project/status-report.md)
-- [Sprint Planning](../../../templates/project/sprint-planning.md)
-- [Feature Request](../../../templates/project/feature-request.md)
+Use the following templates from the [Templates](../../templates/project/) directory:
+- [Project Status Report](../../templates/project/status-report.md)
+- [Sprint Planning](../../templates/project/sprint-planning.md)
+- [Feature Request](../../templates/project/feature-request.md)
 
 ## Maintenance
 - Update documentation as project plans evolve

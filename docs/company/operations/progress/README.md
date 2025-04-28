@@ -10,7 +10,7 @@ This directory contains records of company progress and milestones.
 - Status reports
 
 ## Guidelines
-1. Use the progress tracking template from `templates/project/status-report.md`
+1. Use the progress tracking template from `docs/templates/project/status-report.md`
 2. Document all major milestones
 3. Include progress metrics
 4. Track goal achievement
