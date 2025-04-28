@@ -1,65 +1,53 @@
-# KPIAnalysis
+# Rubic LLC Documentation & Templates Repository
 
-Welcome to the KPIAnalysis project. This repository contains comprehensive documentation for the project, organized into documentation and templates sections.
+Welcome to the Rubic LLC documentation and templates repository. This repository provides comprehensive resources for company setup, operations, legal compliance, project management, and technical documentation for Rubic LLC and its projects.
 
-## Getting Started
+## Repository Structure
 
-We recommend starting with the [MVP Discussion](docs/company/operations/meetings/summaries/2024-02-20-mvp-discussion.md) to understand the key requirements and scope of the project. This document contains the initial discussion about the Minimum Viable Product and its features.
+- **docs/company/** — Company-wide documentation
+  - [Setup](docs/company/setup/README.md): Incorporation, compliance, and organizational setup
+  - [Operations](docs/company/operations/README.md): Ongoing company operations, decisions, and progress
+  - [Legal](docs/company/legal/) (if applicable): Legal documents and agreements
 
-## Documentation
+- **docs/project/** — Project-specific documentation
+  - Each project has its own subdirectory (e.g., [KPI Analysis Platform](docs/project/kpi-analysis/README.md))
+  - Includes planning, technical, meetings, tracking, and other project docs
 
-### Company Documentation
-- [Company Setup Process](docs/company/setup/README.md) - Company setup documentation
-- [Operations](docs/company/operations/README.md) - Ongoing company operations
-  - [Meetings](docs/company/operations/meetings/README.md) - Meeting minutes and summaries
-  - [Decisions](docs/company/operations/decisions/README.md) - Decision logs
-  - [Progress](docs/company/operations/progress/README.md) - Progress tracking
+- **docs/templates/** — Document templates
+  - [Legal Templates](docs/templates/legal/README.md): Operating agreements, NDAs, contracts, etc.
+  - [Technical Templates](docs/templates/technical/README.md): API docs, system architecture, code review, etc.
+  - [Project Templates](docs/templates/project/README.md): Status reports, sprint planning, feature/bug/user story, etc.
+  - [Meeting Templates](docs/templates/meetings/README.md): Agendas, action items, decision logs
 
-### Project Documentation
-- [KPI Analysis Platform](docs/project/kpi-analysis/README.md) - All documentation for the KPI Analysis Platform, including:
-  - [Architecture](docs/project/kpi-analysis/technical/architecture/README.md) - System design and architecture
-  - [API](docs/project/kpi-analysis/technical/api/README.md) - API documentation
-  - [Database](docs/project/kpi-analysis/technical/database/README.md) - Database documentation
-  - [Development](docs/project/kpi-analysis/technical/development/README.md) - Development guidelines
-  - [MVP](docs/project/kpi-analysis/mvp/README.md) - MVP-related documentation
-  - [Planning](docs/project/kpi-analysis/planning/README.md) - Project planning
-  - [Tracking](docs/project/kpi-analysis/tracking/README.md) - Project tracking
+## Navigation
 
-## Templates
+- **Company Documentation**
+  - [Company Setup](docs/company/setup/README.md)
+  - [Company Operations](docs/company/operations/README.md)
 
-### Legal Templates
-- [Operating Agreement](docs/templates/legal/operating-agreement.md) - Company operating agreement template
-- [NDA](docs/templates/legal/nda.md) - Non-disclosure agreement template
-- [Service Agreement](docs/templates/legal/service-agreement.md) - Service agreement template
-- [Employment Contract](docs/templates/legal/employment-contract.md) - Employment contract template
-- [Vendor Agreement](docs/templates/legal/vendor-agreement.md) - Vendor agreement template
+- **Project Documentation**
+  - [Project Index](docs/project/README.md)
+  - [KPI Analysis Platform](docs/project/kpi-analysis/README.md) (example project)
 
-### Technical Templates
-- [API Documentation](docs/templates/technical/api-documentation.md) - API documentation template
-- [System Architecture](docs/templates/technical/system-architecture.md) - System architecture documentation template
-- [Database Schema](docs/templates/technical/database-schema.md) - Database schema documentation template
-- [Code Review](docs/templates/technical/code-review.md) - Code review template
-- [Testing Plan](docs/templates/technical/testing-plan.md) - Testing plan template
+- **Templates**
+  - [Templates Index](docs/templates/README.md)
+  - [Legal Templates](docs/templates/legal/README.md)
+  - [Technical Templates](docs/templates/technical/README.md)
+  - [Project Templates](docs/templates/project/README.md)
+  - [Meeting Templates](docs/templates/meetings/README.md)
 
-### Project Templates
-- [Meeting Agenda](docs/templates/project/meeting-agenda.md) - Meeting agenda template
-- [Action Items](docs/templates/project/action-items.md) - Action items tracking template
-- [Decision Log](docs/templates/project/decision-log.md) - Decision tracking template
-- [Project Status Report](docs/templates/project/status-report.md) - Project status reporting template
-- [Sprint Planning](docs/templates/project/sprint-planning.md) - Sprint planning template
-- [Feature Request](docs/templates/project/feature-request.md) - Feature request template
-- [Bug Report](docs/templates/project/bug-report.md) - Bug reporting template
-- [User Story](docs/templates/project/user-story.md) - User story template
+## How to Use This Repository
 
-### Meeting Templates
-- [Meeting Agenda](docs/templates/meetings/agenda.md) - Meeting agenda template
-- [Action Items](docs/templates/meetings/action-items.md) - Action items tracking template
-- [Decision Log](docs/templates/meetings/decision-log.md) - Decision tracking template
+1. **Company Setup:** Start with the company setup documentation for incorporation and compliance guidance.
+2. **Operations:** Use the operations section to track company-wide decisions and progress.
+3. **Projects:** Navigate to the relevant project folder for all project-specific documentation and resources.
+4. **Templates:** Use the templates directory to standardize documentation, agreements, and project management.
+5. **Legal Review:** All legal templates should be reviewed by qualified counsel before use.
 
 ## Contributing
 
-Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute to this project.
+Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute to this repository.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).

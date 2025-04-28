@@ -5,12 +5,13 @@ This directory contains all project documentation organized into three main cate
 ## Company Documentation
 - [Company Setup Process](company/setup/README.md) - Company setup process documentation
 - [Operations](company/operations/README.md) - Ongoing company operations documentation
-  - [Meetings](company/operations/meetings/README.md) - Meeting minutes and summaries
+  - [Meetings](project/kpi-analysis/meetings/README.md) - Meeting minutes and summaries
   - [Decisions](company/operations/decisions/README.md) - Decision logs and records
   - [Progress](company/operations/progress/README.md) - Progress tracking and updates
 
 ## Project Documentation
 - [KPI Analysis Platform](project/kpi-analysis/README.md) - All documentation for the KPI Analysis Platform, including:
+  - [Meetings](project/kpi-analysis/meetings/README.md) - Meeting minutes and summaries
   - [Architecture](project/kpi-analysis/technical/architecture/README.md) - System design and architecture
   - [API](project/kpi-analysis/technical/api/README.md) - API documentation
   - [Database](project/kpi-analysis/technical/database/README.md) - Database documentation

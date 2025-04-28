@@ -1,26 +1,26 @@
 # Company Operations
 
-## Overview
-This directory contains documentation for ongoing company operations.
+This directory contains documentation for ongoing company-wide operations, decisions, and progress.
 
 ## Contents
-- [Meetings](meetings/README.md) - Meeting minutes and summaries
-- [Decisions](decisions/README.md) - Decision logs and records
-- [Progress](progress/README.md) - Progress tracking and updates
+- [Company-wide decisions](decisions/README.md)
+- [Company-wide progress and milestones](progress/README.md)
+- Compliance and regulatory updates
+- HR and organizational changes
+- General operational notes
 
-## Related Documentation
-- [Company Setup](../../setup/README.md) - For company setup process
-- [Risk Assessment](../../setup/08_risk-assessment.md) - For risk management
-- [Progress Tracking](../../setup/00_progress-tracking.md) - For project status
-
-## Templates
-Use the following templates from the [Templates](../../../templates/) directory:
-- [Meeting Agenda](../../../templates/meetings/agenda.md)
-- [Action Items](../../../templates/meetings/action-items.md)
-- [Decision Log](../../../templates/meetings/decision-log.md)
-- [Status Report](../../../templates/project/status-report.md)
+## Guidelines
+1. Use the appropriate templates from `docs/templates/` for decisions and progress tracking.
+2. Document all major company-wide decisions and changes.
+3. Include context, rationale, and impact for each entry.
+4. Maintain a clear separation between company operations and project-specific documentation.
 
 ## Maintenance
-- Update documentation regularly
 - Review and update monthly
-- Ensure alignment with company goals 
+- Update when major company decisions or changes occur
+- Verify all company operations are documented
+- Archive outdated records as needed
+
+---
+
+*For project-specific meetings, status reports, and technical documentation, see the relevant project folder under `docs/project/`.* 

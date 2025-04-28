@@ -4,7 +4,7 @@ This Service Agreement (“Agreement”) is entered into as of April 28, 2025 (�
 
 **1. SERVICES**  
 1.1 **Scope of Services.** Company shall provide software engineering and related consulting services as described in one or more Statements of Work (each, a “SOW”), which shall be incorporated herein by this reference.  
-1.2 **Performance.** Company agrees to perform the services in a professional and workmanlike manner consistent with industry standards and subject to the terms of this Agreement.  
+1.2 **Performance.** Company agrees to perform the services in a professional and workmanlike manner consistent with industry standards and subject to the terms of this Agreement.
 
 **2. TERM AND TERMINATION**  
 2.1 **Term.** This Agreement shall commence on the Effective Date and continue in effect until terminated in accordance with Section 2.2 or the termination of all outstanding SOWs.  
@@ -18,8 +18,9 @@ This Service Agreement (“Agreement”) is entered into as of April 28, 2025 (�
 3.3 **Expenses.** Unless otherwise stated in the applicable SOW, Company shall bear all costs and expenses incurred in connection with the performance of the Services.
 
 **4. INTELLECTUAL PROPERTY**  
-4.1 **Ownership.** Each Party shall retain all right, title, and interest in and to its pre-existing intellectual property. Company shall assign to Client all right, title, and interest in any deliverables expressly agreed to be “work made for hire” in the applicable SOW, except that Company may retain a license to use any of its methodologies, know-how, and background technology.  
-4.2 **License.** Subject to receipt of full payment, Company hereby grants Client a non-exclusive, worldwide, royalty-free license to use any proprietary tools or software incorporated in the deliverables solely for Client’s internal business purposes.
+4.1 **Ownership & Source Code Retention.** Notwithstanding any designation of deliverables as “work made for hire” in any SOW or otherwise, the Parties expressly agree that the source code, including any revisions, modifications, enhancements, or derivative works thereof, is not considered a “work made for hire” under applicable copyright law. The Company shall retain all rights, title, and interest in and to the source code and any associated intellectual property, including all underlying methodologies, know-how, and background technology.  
+4.2 **License to Client.** Subject to full payment and compliance with the terms of this Agreement, the Company hereby grants Client a perpetual, irrevocable, non-exclusive, worldwide, royalty-free license to use, execute, display, reproduce, and distribute the compiled version of the software solely for Client’s internal business purposes. This license does not grant Client the rights to modify, reverse engineer, or otherwise derive the source code except as expressly authorized in writing by the Company.  
+4.3 **Pre-Existing Materials.** Each Party shall retain all right, title, and interest in and to its pre-existing intellectual property. Company’s pre-existing intellectual property, including its tools, methodologies, and techniques, shall remain the sole property of Company.
 
 **5. CONFIDENTIAL INFORMATION**  
 5.1 **Definition.** “Confidential Information” means any non-public information disclosed by a Party to the other, whether in written, oral, or electronic form, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.  
@@ -46,16 +47,17 @@ This Service Agreement (“Agreement”) is entered into as of April 28, 2025 (�
 9.4 **Amendment.** No amendment or modification of this Agreement shall be valid unless in writing and signed by both Parties.  
 9.5 **Severability.** If any provision of this Agreement is found to be invalid or unenforceable under Delaware law or applicable case law, the remaining provisions shall continue in full force and effect.  
 9.6 **Assignment.** Neither Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party, except that Company may assign this Agreement to an affiliate or in connection with a merger or sale of substantially all of its assets.  
-9.7 **Notices.** All notices required or permitted under this Agreement shall be in writing and delivered to the addresses set forth above or to such other address as may be designated in writing by a Party.
-9.8 **Force Majeure.** Neither Party shall be liable for any delay or failure to perform due to causes beyond its reasonable control, including acts of God, government regulations, or labor disputes.
+9.7 **Notices.** All notices required or permitted under this Agreement shall be in writing and delivered to the addresses set forth above or to such other address as may be designated in writing by a Party.  
+9.8 **Force Majeure.** Neither Party shall be liable for any delay or failure to perform due to causes beyond its reasonable control, including acts of God, government regulations, or labor disputes.  
 9.9 **Counterparts.** This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
 
 IN WITNESS WHEREOF, the Parties hereto have executed this Service Agreement as of the Effective Date.
 
-  
 _____________________________             _____________________________  
 [Client Name]                              [Software Engineering Company Name]  
 By: _________________________              By: _________________________  
 Name: _______________________              Name: _______________________  
 Title: ________________________             Title: ________________________  
 Date: _________________________             Date: April 28, 2025  
+
+<!-- End of Document -->

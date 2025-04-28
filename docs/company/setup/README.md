@@ -8,14 +8,14 @@ Each section is highly detailed to ensure no critical steps are missed.
 ## Main Sections
 - [Glossary & Resources](00_glossary.md) - Common terms and external resources
 - [Progress Tracking](00_progress-tracking.md) - Project status and timeline
-- [Pre-Incorporation Planning](01_pre-incorporation-planning.md)
-- [Incorporation Filing](02_incorporation-filing.md)
-- [Post-Incorporation Setup](03_post-incorporation-setup.md)
-- [Compliance & Licensing](04_compliance-licensing.md)
-- [Internal Organization & Tooling](05_internal-organization.md)
-- [Optional But Highly Recommended Early Steps](06_optional-early-steps.md)
-- [Risk Management & Insurance](07_risk-management.md)
-- [Risk Assessment](08_risk-assessment.md)
+- [Pre-Incorporation Planning](01_pre-incorporation-planning.md) - Steps to prepare before incorporation
+- [Incorporation Filing](02_incorporation-filing.md) - Legal filing and registration process
+- [Post-Incorporation Setup](03_post-incorporation-setup.md) - Tasks after incorporation is complete
+- [Compliance & Licensing](04_compliance-licensing.md) - Regulatory and licensing requirements
+- [Internal Organization & Tooling](05_internal-organization.md) - Setting up internal structure and tools
+- [Optional But Highly Recommended Early Steps](06_optional-early-steps.md) - Additional steps to strengthen the company
+- [Risk Management & Insurance](07_risk-management.md) - Managing and insuring against risks
+- [Risk Assessment](08_risk-assessment.md) - Risk matrix and mitigation strategies
 
 ## Documentation
 See the [Documentation Index](../../README.md) for a complete overview of all documentation.
@@ -24,9 +24,6 @@ See the [Documentation Index](../../README.md) for a complete overview of all do
 - [Progress Tracking](00_progress-tracking.md) - Project status and timeline
 - [Glossary & Resources](00_glossary.md) - Common terms and external resources
 - [Risk Assessment](08_risk-assessment.md) - Risk matrix and mitigation strategies
-
-### Technical Documentation
-See [Technical Documentation](../../project/kpi-analysis/technical/README.md) for technical details.
 
 ### Project Documentation
 See [Project Documentation](../../project/README.md) for project planning.

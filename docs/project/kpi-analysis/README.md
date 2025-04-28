@@ -1,33 +1,35 @@
-# Project Documentation
+# KPIAnalysis Project Documentation
 
-## Overview
-This directory contains project documentation, including planning, budgeting, and scope definitions.
+Welcome to the KPIAnalysis project. This directory contains comprehensive documentation for the KPIAnalysis platform, including planning, technical specifications, meetings, and progress tracking.
 
-## Contents
-1. [Budget Planning](planning/budgetPlanning.md)
-   - Financial projections
-   - Resource allocation
-   - Cost tracking
+## Getting Started
 
-2. [Project Phases](planning/projectPhases.md)
-   - Implementation timeline
-   - Milestone definitions
-   - Dependencies
+We recommend starting with the [MVP Discussion](meetings/summaries/2024-02-20-mvp-discussion.md) to understand the key requirements and scope of the project. This document contains the initial discussion about the Minimum Viable Product and its features.
 
-3. [MVP Scope](mvp/mvpScope.md)
-   - Minimum viable product definition
-   - Feature prioritization
-   - Release criteria
+## Project Documentation Structure
 
-4. [Demo Scope](planning/demoScope.md)
-   - Demo requirements
-   - Presentation guidelines
-   - Success criteria
+### Core Project Docs
+- [Budget Planning](planning/budgetPlanning.md) — Financial projections, resource allocation, cost tracking
+- [Project Phases](planning/projectPhases.md) — Implementation timeline, milestones, dependencies
+- [MVP Scope](mvp/mvpScope.md) — Minimum viable product definition, feature prioritization, release criteria
+- [Demo Scope](planning/demoScope.md) — Demo requirements, presentation guidelines, success criteria
 
-## Related Documentation
-- [Progress Tracking](../../company/setup/00_progress-tracking.md) - For project status
-- [Risk Assessment](../../company/setup/08_risk-assessment.md) - For project risks
-- [Company Organization](../../company/setup/05_internal-organization.md) - For team structure
+### Technical Documentation
+- [Architecture](technical/architecture/README.md) — System design and architecture
+- [API](technical/api/README.md) — API documentation
+- [Database](technical/database/README.md) — Database documentation
+- [Development](technical/development/README.md) — Development guidelines
+
+### Meetings & Tracking
+- [Meetings](meetings/README.md) — Meeting minutes and summaries
+- [Progress Tracking](../../company/operations/progress/README.md) — Project status and updates
+- [Decisions](../../company/operations/decisions/README.md) — Decision logs
+- [Tracking](tracking/README.md) — Project tracking and metrics
+
+### Related Company Docs
+- [Company Setup Process](../../company/setup/README.md)
+- [Risk Assessment](../../company/setup/08_risk-assessment.md)
+- [Company Organization](../../company/setup/05_internal-organization.md)
 
 ## Templates
 Use the following templates from the [Templates](../../templates/project/) directory:
@@ -40,4 +42,4 @@ Use the following templates from the [Templates](../../templates/project/) direc
 ## Maintenance
 - Update documentation as project evolves
 - Review and update monthly
-- Ensure alignment with business objectives 
+- Ensure alignment with business objectives
