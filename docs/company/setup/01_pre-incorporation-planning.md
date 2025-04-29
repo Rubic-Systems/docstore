@@ -1,36 +1,36 @@
 # 01 — Pre-Incorporation Planning
 
 ## Finalize Company Name
-- [ ] Confirm "Rubic LLC" as the official name.
-- [ ] Check Rubic LLC name availability in Delaware state database.
-- [ ] Perform USPTO trademark search to ensure no conflicts.
-- [ ] Confirm domain availability (e.g., rubic.ai, rubiclabs.com, rubic.io).
+- [x] Confirm "Rubic LLC" as the official name.
+- [x] Check Rubic LLC name availability in Delaware state database.
+- [x] Perform USPTO trademark search to ensure no conflicts.
+- [x] Confirm domain availability (e.g., rubic.ai, rubiclabs.com, rubic.io).
 - [ ] Check social media handle availability.
-- [ ] Consider registering DBA names if needed.
+- [x] Consider registering DBA names if needed.
 
 ## Ownership and Management Planning
-- [ ] Agree on ownership split between Chris and Arthur.
-- [ ] Determine management structure:
-  - [ ] Member-managed or Manager-managed LLC.
+- [x] Agree on ownership split between Chris and Arthur.
+- [x] Determine management structure:
+  - [x] Member-managed or Manager-managed LLC.
   - [ ] Define decision-making processes.
-  - [ ] Establish voting rights and procedures.
+  - [x] Establish voting rights and procedures.
   - [ ] Define roles and responsibilities of each member.
   - [ ] Create dispute resolution procedures.
   - [ ] Plan for potential member exit scenarios.
 
 ## Business Planning
-- [ ] Document initial business plan:
-  - [ ] Define target market and value proposition.
-  - [ ] Outline initial product/service offerings.
-  - [ ] Establish preliminary pricing strategy.
-  - [ ] Identify key competitors and market position.
-  - [ ] Create sales and marketing strategy.
+- [x] Document initial business plan:
+  - [x] Define target market and value proposition.
+  - [x] Outline initial product/service offerings.
+  - [x] Establish preliminary pricing strategy.
+  - [x] Identify key competitors and market position.
+  - [x] Create sales and marketing strategy.
   - [ ] Define growth and scaling plans.
   - [ ] Identify potential strategic partnerships.
 
 ## Financial Planning
 - [ ] Determine initial capital structure:
-  - [ ] Define initial capital contributions.
+  - [x] Define initial capital contributions.
   - [ ] Establish profit/loss distribution.
   - [ ] Plan for future funding needs.
   - [ ] Create cash flow projections.
@@ -44,7 +44,7 @@
   - [ ] Emergency fund allocation.
 
 ## Tax Planning
-- [ ] Choose tax structure (default LLC vs. S-Corp election).
+- [x] Choose tax structure (default LLC vs. S-Corp election).
 - [ ] Plan for estimated tax payments.
 - [ ] Determine state tax obligations.
 - [ ] Consider international tax implications.
@@ -52,7 +52,7 @@
 - [ ] Plan for sales tax collection and remittance.
 
 ## Branding and Online Identity
-- [ ] Reserve primary domain(s).
+- [x] Reserve primary domain(s).
 - [ ] Reserve important social media handles.
 - [ ] Develop initial brand guidelines:
   - [ ] Color palette and typography.
@@ -62,8 +62,8 @@
   - [ ] Website design requirements.
 
 ## Preliminary Legal Planning
-- [ ] Confirm Rubic LLC will initially be an LLC, not C-Corp.
-- [ ] Decide who will be initial officers, if any.
+- [x] Confirm Rubic LLC will initially be an LLC, not C-Corp.
+- [x] Decide who will be initial officers, if any.
 - [ ] Research potential legal counsel.
 - [ ] Identify key legal requirements for your industry.
 - [ ] Review intellectual property protection needs.
@@ -85,8 +85,8 @@
 - [ ] Create employee/contractor onboarding process.
 
 ## Timeline and Milestones
-- [ ] Establish target incorporation date.
-- [ ] Create project timeline for setup.
+- [x] Establish target incorporation date.
+- [x] Create project timeline for setup.
 - [ ] Identify critical path items.
 - [ ] Set up regular progress reviews.
 - [ ] Define success metrics for first 30/60/90 days.

@@ -1,18 +1,18 @@
 # 02 — Incorporation Filing
 
 ## Choose Filing Service or DIY
-- [ ] Evaluate filing services:
-  - [ ] Compare costs and features of Stripe Atlas, Firstbase.io, Clerky
-  - [ ] Review included services (registered agent, EIN, etc.)
-  - [ ] Check customer support and turnaround times
-  - [ ] Read reviews and testimonials
-  - [ ] Compare post-formation support services
-  - [ ] Review template quality (especially Operating Agreement)
-  - [ ] Check if banking integration is included
-- [ ] If DIY route:
-  - [ ] Download Delaware LLC formation documents
-  - [ ] Review Delaware Division of Corporations requirements
-  - [ ] Set up tracking system for deadlines and requirements
+- [x] Evaluate filing services:
+  - [x] Compare costs and features of Stripe Atlas, Firstbase.io, Clerky
+  - [x] Review included services (registered agent, EIN, etc.)
+  - [x] Check customer support and turnaround times
+  - [x] Read reviews and testimonials
+  - [x] Compare post-formation support services
+  - [x] Review template quality (especially Operating Agreement)
+  - [x] Check if banking integration is included
+- [x] If DIY route:
+  - [x] Download Delaware LLC formation documents
+  - [x] Review Delaware Division of Corporations requirements
+  - [x] Set up tracking system for deadlines and requirements
 
 ## Select Registered Agent
 - [ ] Research registered agent services:
