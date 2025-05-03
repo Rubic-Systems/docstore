@@ -1,6 +1,7 @@
 # 01 — Pre-Incorporation Planning
 
 ## Finalize Company Name
+
 - [x] Confirm "Rubic LLC" as the official name.
 - [x] Check Rubic LLC name availability in Delaware state database.
 - [x] Perform USPTO trademark search to ensure no conflicts.
@@ -9,6 +10,7 @@
 - [x] Consider registering DBA names if needed.
 
 ## Ownership and Management Planning
+
 - [x] Agree on ownership split between Chris and Arthur.
 - [x] Determine management structure:
   - [x] Member-managed or Manager-managed LLC.
@@ -19,6 +21,7 @@
   - [ ] Plan for potential member exit scenarios.
 
 ## Business Planning
+
 - [x] Document initial business plan:
   - [x] Define target market and value proposition.
   - [x] Outline initial product/service offerings.
@@ -29,6 +32,7 @@
   - [ ] Identify potential strategic partnerships.
 
 ## Financial Planning
+
 - [ ] Determine initial capital structure:
   - [x] Define initial capital contributions.
   - [ ] Establish profit/loss distribution.
@@ -44,6 +48,7 @@
   - [ ] Emergency fund allocation.
 
 ## Tax Planning
+
 - [x] Choose tax structure (default LLC vs. S-Corp election).
 - [ ] Plan for estimated tax payments.
 - [ ] Determine state tax obligations.
@@ -52,6 +57,7 @@
 - [ ] Plan for sales tax collection and remittance.
 
 ## Branding and Online Identity
+
 - [x] Reserve primary domain(s).
 - [ ] Reserve important social media handles.
 - [ ] Develop initial brand guidelines:
@@ -62,12 +68,13 @@
   - [ ] Website design requirements.
 
 ## Preliminary Legal Planning
+
 - [x] Confirm Rubic LLC will initially be an LLC, not C-Corp.
 - [x] Decide who will be initial officers, if any.
-- [ ] Research potential legal counsel.
-- [ ] Identify key legal requirements for your industry.
-- [ ] Review intellectual property protection needs.
-- [ ] Plan for required licenses and permits.
+- [x] Research potential legal counsel.
+- [x] Identify key legal requirements for your industry.
+- [x] Review intellectual property protection needs.
+- [x] Plan for required licenses and permits.
 - [ ] Consider insurance requirements:
   - [ ] General liability.
   - [ ] Professional liability.
@@ -75,9 +82,10 @@
   - [ ] Directors and officers insurance.
 
 ## Operational Planning
+
 - [ ] Define initial operational procedures:
-  - [ ] Remote work policies.
-  - [ ] Communication tools and protocols.
+  - [x] Remote work policies.
+  - [x] Communication tools and protocols.
   - [ ] Project management methodology.
   - [ ] Development and deployment processes.
 - [ ] Identify technology stack and tools needed.
@@ -85,6 +93,7 @@
 - [ ] Create employee/contractor onboarding process.
 
 ## Timeline and Milestones
+
 - [x] Establish target incorporation date.
 - [x] Create project timeline for setup.
 - [ ] Identify critical path items.
@@ -93,12 +102,13 @@
 - [ ] Create contingency plans for potential delays.
 
 ## Compliance Planning
+
 - [ ] Research industry-specific regulations.
 - [ ] Plan for GDPR/CCPA compliance if applicable.
 - [ ] Identify required business registrations.
 - [ ] Plan for ongoing compliance monitoring.
 - [ ] Research export control requirements if applicable.
 
-> **Note:** This phase typically takes 2-4 weeks to complete thoroughly. Regular meetings between founders are recommended to ensure alignment on all decisions.
+---
 
-> **Important:** Consider consulting with legal and tax professionals before finalizing these decisions.
+_Last Updated: 2024-05-15_

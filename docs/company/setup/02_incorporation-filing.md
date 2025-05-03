@@ -15,43 +15,43 @@
   - [x] Set up tracking system for deadlines and requirements
 
 ## Select Registered Agent
-- [ ] Research registered agent services:
-  - [ ] Compare annual fees and renewal policies
-  - [ ] Review service offerings and compliance support
-  - [ ] Check customer support response times
-  - [ ] Verify state compliance requirements
-  - [ ] Review document handling and forwarding procedures
-  - [ ] Check online portal capabilities
-- [ ] Hire Delaware Registered Agent
-- [ ] Document agent contact information
-- [ ] Set up notification system for forwarded documents
+- [x] Research registered agent services:
+  - [x] Compare annual fees and renewal policies
+  - [x] Review service offerings and compliance support
+  - [x] Check customer support response times
+  - [x] Verify state compliance requirements
+  - [x] Review document handling and forwarding procedures
+  - [x] Check online portal capabilities
+- [x] Hire Delaware Registered Agent
+- [x] Document agent contact information
+- [x] Set up notification system for forwarded documents
 
 ## File Certificate of Formation (Delaware LLC)
-- [ ] Prepare filing documents:
-  - [ ] LLC Name and any DBA names
-  - [ ] Registered Agent information
-  - [ ] LLC Purpose Statement
-  - [ ] Management structure
-  - [ ] Member/Manager information
-  - [ ] Principal office address
-  - [ ] Email contact for state communications
-- [ ] Submit Certificate of Formation
-- [ ] Pay Delaware state filing fee ($90)
-- [ ] Track filing status
-- [ ] Store approved documents securely
-- [ ] Order certified copies if needed
+- [x] Prepare filing documents:
+  - [x] LLC Name and any DBA names
+  - [x] Registered Agent information
+  - [x] LLC Purpose Statement
+  - [x] Management structure
+  - [x] Member/Manager information
+  - [x] Principal office address
+  - [x] Email contact for state communications
+- [x] Submit Certificate of Formation
+- [x] Pay Delaware state filing fee ($90)
+- [x] Track filing status
+- [x] Store approved documents securely
+- [x] Order certified copies if needed
 - [ ] Set calendar reminder for annual report
 
 ## Obtain Federal EIN
 - [ ] Gather required information:
-  - [ ] LLC name and address
-  - [ ] Responsible party information (SSN required)
-  - [ ] Business type and purpose
-  - [ ] Start date of business
+  - [x] LLC name and address
+  - [x] Responsible party information (SSN required)
+  - [x] Business type and purpose
+  - [x] Start date of business
   - [ ] Fiscal year end selection
-  - [ ] Number of employees expected
-- [ ] File online with IRS (or Form SS-4)
-- [ ] Store EIN confirmation securely
+  - [x] Number of employees expected
+- [x] File online with IRS (or Form SS-4)
+- [x] Store EIN confirmation securely
 - [ ] Apply for DUNS number (optional but recommended)
 - [ ] Consider additional business identifiers:
   - [ ] State tax registration numbers
@@ -75,27 +75,27 @@
 - [ ] Review with legal counsel
 - [ ] Obtain member signatures (consider e-signature platform)
 - [ ] Store signed copy securely
-- [ ] Create member certificates if desired
+- [x] Create member certificates if desired
 
 ## Open Business Bank Account
-- [ ] Research banking options:
-  - [ ] Traditional banks vs. online banks
-  - [ ] Compare fees and features
-  - [ ] Review customer support
-  - [ ] Check international wire capabilities
-  - [ ] Review API/integration features
-  - [ ] Compare merchant services
-  - [ ] Check virtual card features
-- [ ] Gather required documents:
-  - [ ] EIN confirmation letter
-  - [ ] Certificate of Formation
-  - [ ] Operating Agreement
-  - [ ] Member identification
-  - [ ] Proof of address
-  - [ ] Initial deposit
+- [x] Research banking options:
+  - [x] Traditional banks vs. online banks
+  - [x] Compare fees and features
+  - [x] Review customer support
+  - [x] Check international wire capabilities
+  - [x] Review API/integration features
+  - [x] Compare merchant services
+  - [x] Check virtual card features
+- [x] Gather required documents:
+  - [x] EIN confirmation letter
+  - [x] Certificate of Formation
+  - [x] Operating Agreement
+  - [x] Member identification
+  - [x] Proof of address
+  - [x] Initial deposit
 - [ ] Set up account:
-  - [ ] Choose account type
-  - [ ] Set up online banking
+  - [x] Choose account type
+  - [x] Set up online banking
   - [ ] Configure account alerts
   - [ ] Establish signatory authority
   - [ ] Set up multi-factor authentication

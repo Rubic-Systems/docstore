@@ -2,7 +2,7 @@
 
 ## Phase 1: Initial Business Setup
 ### Business Licenses and Registrations
-- [ ] Obtain Delaware Business License
+- [x] Obtain Delaware Business License
 - [ ] Check local licensing requirements:
   - [ ] City business license
   - [ ] County permits
@@ -28,14 +28,14 @@
 
 ## Phase 2: Digital Infrastructure
 ### Domain and Email
-- [ ] Set up domain and DNS:
-  - [ ] Configure DNS records
-  - [ ] Set up SSL certificates
-  - [ ] Configure email authentication (SPF, DKIM, DMARC)
-- [ ] Set up business email platform:
-  - [ ] Configure user accounts
+- [x] Set up domain and DNS:
+  - [x] Configure DNS records
+  - [x] Set up SSL certificates
+  - [x] Configure email authentication (SPF, DKIM, DMARC)
+- [x] Set up business email platform:
+  - [x] Configure user accounts
   - [ ] Set up email groups
-  - [ ] Create email signatures
+  - [x] Create email signatures
   - [ ] Establish email retention policies
   - [ ] Configure spam filters
   - [ ] Set up backup systems

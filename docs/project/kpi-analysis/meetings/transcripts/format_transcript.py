@@ -8,7 +8,7 @@ def process_transcript(input_file):
     """Process the raw transcript and format it as JSON"""
     print(f"Opening file: {input_file}")
     try:
-    with open(input_file, 'r', encoding='utf-8') as f:
+        with open(input_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             print(f"Successfully read {len(lines)} lines from file")
     except Exception as e:
@@ -61,7 +61,7 @@ def process_transcript(input_file):
                 formatted_data["participants"].add(line)
                 print(f"Found speaker: {current_speaker}")
                 i += 2  # Skip the duplicate name
-            continue
+                continue
             
             # Must be text content
             if line:
@@ -83,14 +83,13 @@ def process_transcript(input_file):
         formatted_data["participants"] = sorted(list(formatted_data["participants"]))
         print(f"Found {len(formatted_data['participants'])} participants")
         print(f"Processed {len(formatted_data['transcript'])} transcript entries")
-    
-    return formatted_data
     except Exception as e:
         print(f"Error processing transcript at line {i}: {str(e)}")
         print(f"Current state: speaker={current_speaker}, timestamp={current_timestamp}")
         print(f"Current text buffer: {current_text}")
         traceback.print_exc()
         raise
+    return formatted_data
 
 def main():
     if len(sys.argv) != 2:

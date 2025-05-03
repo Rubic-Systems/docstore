@@ -122,7 +122,7 @@ This document outlines the technology stack for the Auto Repair Center KPI Analy
 
 ## Mobile Development [Phase 3]
 
-### Cross-platform Development
+### Cross-platform DevelopmentD
 
 - **React Native** - Mobile app development
   - Alternatives: Flutter, NativeScript
